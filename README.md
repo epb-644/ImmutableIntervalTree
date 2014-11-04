@@ -4,7 +4,11 @@ This library is an immutable implementation of the Interval Tree data structure.
 
 Interval Trees are useful anytime you need to store and find overlapping intervals.
 
-Here's a good overview with examples: http://www.dgp.toronto.edu/people/JamesStewart/378notes/22intervals/
+This is a good overview with examples: http://www.dgp.toronto.edu/people/JamesStewart/378notes/22intervals/
+
+## Dependencies
+
+Guava is required, and JUnit is required just for the unit test.
 
 ## LICENSE
 
